@@ -9,7 +9,7 @@ A simple news viewing application built with Next.js 15 and React 19. News data 
 - **SQLite (via better-sqlite3)**
 - **CSS Modules**
 
-## 🗂Features
+## Features
 
 - Filter news articles by **year** and **month**
 - Server-side data fetching with SQLite
@@ -45,7 +45,7 @@ A simple news viewing application built with Next.js 15 and React 19. News data 
 
 4. Open your browser at [http://localhost:3000](http://localhost:3000)
 
-## 🗃️ Project Structure
+## Project Structure
 
 ```
 /news-app
